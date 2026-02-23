@@ -1,7 +1,7 @@
 # Global build arguments
 ARG GO_BUILD_BASE_IMAGE=1.25.7-alpine3.23
 ARG GO_BUILD_FLAGS=""
-ARG PROJECT_NAME="mcp-server-go"
+ARG PROJECT_NAME="github.com/raykavin/gomcp"
 ARG TZ=America/Belem
 
 # Build stage
