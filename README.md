@@ -205,6 +205,14 @@ github.com/raykavin/gomcp/
 
 ---
 
+## Tests
+
+```bash
+go test ./server
+```
+
+---
+
 ## Contributing
 
 Contributions to Go MCP Server are welcome! Here are some ways you can help improve the project:
