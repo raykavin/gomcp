@@ -1,0 +1,20 @@
+{
+    "name": "search",
+    "description": "Search the web and return relevant results",
+    "schema": {
+        "type": "object",
+        "properties": {
+            "query": {
+                "type": "string",
+                "description": "The search query"
+            },
+            "max_results": {
+                "type": "number",
+                "description": "Maximum number of results to return (default: 5)"
+            }
+        },
+        "required": [
+            "query"
+        ]
+    }
+}
