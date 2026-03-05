@@ -1,4 +1,9 @@
-# Go MCP Server 
+# gomcp 
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/raykavin/gomcp.svg)](https://pkg.go.dev/github.com/raykavin/gomcp)
+[![Go Version](https://img.shields.io/badge/go-1.21+-blue)](https://golang.org/dl/)
+[![Go Report Card](https://goreportcard.com/badge/github.com/raykavin/gomcp)](https://goreportcard.com/report/github.com/raykavin/gomcp)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 A clean Go library for building [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers on top of [mcp-go](https://github.com/mark3labs/mcp-go).
 
@@ -215,7 +220,7 @@ go test ./server
 
 ## Contributing
 
-Contributions to Go MCP Server are welcome! Here are some ways you can help improve the project:
+Contributions to gomcp are welcome! Here are some ways you can help improve the project:
 
 - **Report bugs and suggest features** by opening issues on GitHub
 - **Submit pull requests** with bug fixes or new features
@@ -224,14 +229,14 @@ Contributions to Go MCP Server are welcome! Here are some ways you can help impr
 
 ## License
 
-Go MCP Server is distributed under the **MIT License**.  
+gomcp is distributed under the **MIT License**.  
 For complete license terms and conditions, see the [LICENSE](LICENSE.md) file in the repository.
 
 ---
 
 ## Contact
 
-For support, collaboration, or questions about Go MCP Server:
+For support, collaboration, or questions about gomcp:
 
 **Email**: [raykavin.meireles@gmail.com](mailto:raykavin.meireles@gmail.com)  
 **GitHub**: [@raykavin](https://github.com/raykavin)  
